@@ -8,7 +8,7 @@ setup(
   author = 'Azat ÇELİK',                   # Type in your name
   author_email = 'azatcellk@hotmail.com',      # Type in your E-Mail
   url = 'https://github.com/azatcelik/dataParse',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/azatcelik/dataParse/archive/refs/tags/dataset.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/azatcelik/dataParse/archive/refs/tags/library.tar.gz',    # I explain this later on
   keywords = ['AI', 'IMAGECLASSIFICATION', 'MACHINELEARNING','DATASETS'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
